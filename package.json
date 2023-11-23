@@ -1,0 +1,21 @@
+{
+  "name": "reservas_inquirer",
+  "version": "1.0.0",
+  "description": "App para gestionar reservas a través del terminal con la biblioteca inquirer",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "juanjo_ramos",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "inquirer": "^9.2.12",
+    "nodemailer": "^6.9.7"
+  },
+  "devDependencies": {
+    "prettier": "3.1.0"
+  }
+}
