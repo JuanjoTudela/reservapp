@@ -6,7 +6,7 @@ Reservapp es un proyecto de aprendizaje sobre Node JS que permite reservar local
 
 # Instalacion
 
-Clona el repositorio desde GitHub git clone 
+Clona el repositorio desde GitHub git clone https://github.com/JuanjoTudela/reservapp
 o desde NPM: npm install 
 Instala las dependencias: npm 
 
