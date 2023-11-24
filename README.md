@@ -21,6 +21,8 @@ Sale el menú de bienvenida y el proceso es totalmente guiado al cumplimentar lo
 Inquirer: Para crear cuestionarios en la terminal.
 Colors: Para dale vida y color a nuestra terminal.
 Nodemailer: Para poder realizar el envío de correos de confirmación
+Dotenv: Te permitirá guardar en un archivo .env tus credenciales para las API
+fs: para la escritura de archivos.
 
 # Configuración
 
